@@ -1,0 +1,28 @@
+/* index.html */
+.col-2{
+    background-color: rgba(34, 34, 201, 0.812);
+    color: white;
+}
+.admin-panel{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+.col-2 a{
+    color: white;
+    margin-top: 30px;
+    margin-left: 30px;
+    text-decoration: none;
+    font-size: 16px;
+}
+/* create.html */
+.inputs{
+    display: flex;
+    flex-direction: column;
+    margin-left: 5rem;
+ 
+}
+.inputStyle{
+    width: 40%;
+}
+
